@@ -120,7 +120,7 @@ body{
 
 /* landing starts */
 .landing{
-    background: url(/media/20091130-Teton-Moonlight-bw.jpg);
+    background: url(../20091130-Teton-Moonlight-bw.jpg);
     background-size: cover;
     background-position: center;
     height: calc(100vh - 60px);
