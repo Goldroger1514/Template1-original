@@ -285,7 +285,7 @@ body{
 }
 .about .container .image{
     position: relative;
-    background: url(/media/pexels-photo-1210273.jpeg);
+    background: url(../pexels-photo-1210273.jpeg);
     background-size: cover;
     background-position: center;
     height: 250px;
